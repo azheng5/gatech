@@ -1,0 +1,10 @@
+HW 1
+getConicSection
+twoBodyModel
+nBodyModel
+centerOfMass
+totalEnergy
+totalAngularMomentum
+oldTotalEnergy
+
+HW2
